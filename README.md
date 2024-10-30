@@ -120,14 +120,7 @@ function CustomFilterExample() {
 The component comes with basic styling that you can extend or override using CSS classes. Each element has a specific class name that you can target:
 
 ```css
-.react-select-search { /* Container styles */ }
-.select-container { /* Input container styles */ }
-.selected-options { /* Selected options container styles */ }
-.selected-option { /* Individual selected option styles */ }
-.remove-button { /* Remove button styles */ }
-.search-input { /* Search input styles */ }
-.options-list { /* Options list styles */ }
-.option-item { /* Individual option styles */ }
+  .this .comment is styles with .taildwindcss you can style with any css class 
 ```
 
 ## TypeScript Usage
@@ -162,7 +155,7 @@ function UserSelect() {
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change. i remain Anthony 👌🤣❤️
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change. i remain Anthony JR👌🤣❤️
 
 ## License
 
