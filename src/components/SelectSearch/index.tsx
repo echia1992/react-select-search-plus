@@ -24,7 +24,6 @@ function SelectSearch<T>({
   const [searchTerm, setSearchTerm] = useState<string>("");
   const [isOpen, setIsOpen] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
-
   useEffect(() => {
     const loadOptions = async () => {
       if (fetchOptions) {
