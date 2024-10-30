@@ -120,7 +120,7 @@ function CustomFilterExample() {
 The component comes with basic styling that you can extend or override using CSS classes. Each element has a specific class name that you can target:
 
 ```css
-  .this .comment is styles with .taildwindcss you can style with any css class 
+  .this .component is styled with .taildwindcss you can style with any css class 
 ```
 
 ## TypeScript Usage
